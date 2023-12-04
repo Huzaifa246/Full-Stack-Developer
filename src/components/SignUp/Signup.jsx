@@ -86,7 +86,7 @@ const Signup = () => {
                         <label className='label-style'>
                             What are you hoping to learn about?
                         </label>
-                        <textarea className='textarea-inner' placeholder='What are you hoping to learn about?' name="Where do you work?" id="" cols="20" rows="10"></textarea>
+                        <textarea className='textarea-inner' placeholder='What are you hoping to learn about?' name="Where do you work?" id="" cols="20" rows="5"></textarea>
                     </div>
                     <div className='remember-forget-password signup-pd'>
                         <label>
