@@ -1,0 +1,72 @@
+.bg-login-color {
+  background-color: #2b2d38;
+}
+.login-main {
+  color: #fff;
+  width: 45%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0px 3vw;
+}
+.input-label-main {
+  display: flex;
+  flex-direction: column;
+  margin: 10px 0;
+}
+.label-style {
+  color: #fff;
+  font-family: IBM Plex Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+}
+.input-style {
+  border: 1px solid #464856;
+  background: #23252f;
+  padding: 16px 20px;
+  color: #fff;
+}
+.input-style:focus {
+    outline: none;
+    color: #fff;
+  }
+.h1-login-style {
+  color: #fff;
+  font-family: Arial;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 42px;
+}
+.remember-forget-password {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  font-size: 14px;
+  color: #fff;
+}
+
+.remember-forget-password label {
+  display: flex;
+  align-items: center;
+}
+
+.remember-forget-password input {
+  margin-right: 5px;
+}
+.forget-typography {
+  color: #00d1ff;
+  font-family: IBM Plex Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px; /* 162.5% */
+}
+.submit-btn{
+  width: 181px;
+  padding: 20px 0;
+}

@@ -1,0 +1,45 @@
+.input-signup-main {
+  display: flex;
+  margin: 10px 0;
+}
+.pd-10px {
+  padding: 0 10px;
+}
+.input-style-signup {
+  border: 1px solid #464856;
+  background: #23252f;
+  padding: 16px 20px;
+  color: #fff;
+  width: 100%;
+}
+.w-100 {
+  width: 100%;
+}
+.signup-pd {
+  padding: 0px 10px;
+}
+.signup-typo {
+  color: #000;
+  font-family: IBM Plex Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 28px;
+  width: 250px;
+  margin-left: 10px;
+}
+.textarea-style {
+  display: flex;
+  flex-direction: column;
+  padding: 0 10px;
+}
+.textarea-inner {
+  color: #fff;
+  font-family: IBM Plex Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  border: 1px solid #464856;
+  background: #23252f;
+  padding: 20px
+}
